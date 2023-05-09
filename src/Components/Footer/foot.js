@@ -13,7 +13,7 @@ const foot = () => {
   return (
     
    
-    
+     
     <nav>
         
     <div className='nav-log-container'> 
